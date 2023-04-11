@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        exoPlayerView=findViewById(R.id.idExoPlayerVIew);
+        exoPlayerView=findViewById(R.id.idExoPlayerView);
 
         try {
             //bandwidthMeter is used for getting default bandwidth.
